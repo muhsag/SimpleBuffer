@@ -110,7 +110,7 @@ C:\Users\Windows10\Desktop>
 
 ### Notes:
 - make sure pattern_create.rb is located in `/usr/share/metasploit-framework/tools/exploit/`
-- scripts will run on <= Python 2.7
+- scripts will run on >= Python 2.7
 - the script uses eth0 as default network interface, change it if you have different network interface name.
 
 Devoleped by Muhannad
