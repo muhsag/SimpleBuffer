@@ -39,7 +39,7 @@ if you got a shell working on your local envirment machine, you can now add your
 
 `Usage: simplebuffer.py`
 ```
-root@Kali:~/SimpleBuffer# python simplefuzzer.py 
+root@Kali:~/SimpleBuffer# python simplebuffer.py 
 Starting SimpleBuffer at 18:31:14
 SimpleBuffer report for 10.0.2.5
 [+] Connected to host successfully
